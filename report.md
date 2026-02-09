@@ -1,1 +1,1 @@
-
+Today i learned how to create a simple website by first pulling my repo link into VS Studio, where i made html code and then commited and pushed. I also learned about branches and how to merge it with main.
